@@ -1,4 +1,4 @@
 harbour-tumblr
 ==============
 
-Unofficial Jolla Tumblr client
+Unofficial Jolla Tumblr client 
